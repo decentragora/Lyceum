@@ -14,7 +14,7 @@ Crypto onboarding should be effortless and indistinguishable from traditional ap
 
 ### UI Inspiration
 
-[Rari Capital](https://app.rari.capital/) |  [Barn Bridge](https://app.barnbridge.com/pools) |  [Compound](https://app.compound.finance/) or [DeFi Saver](https://app.defisaver.com/) | [FiatDAO](https://fiatdao.com/) | [Universe XYZ](https://www.universe.xyz/) | [LeagueDAO](https://leaguedao.com/) | [Fluf World](https://www.fluf.world/) | [Yamauchi No. 10 Family Office](https://y-n10.com/) | [Ethereum Foundation](https://ethereum.org/en/) | 
+[Rari Capital](https://app.rari.capital/) |  [Barn Bridge](https://app.barnbridge.com/pools) |  [Compound](https://app.compound.finance/) or [DeFi Saver](https://app.defisaver.com/) | [FiatDAO](https://fiatdao.com/) | [Universe XYZ](https://www.universe.xyz/) | [LeagueDAO](https://leaguedao.com/) | [Fluf World](https://www.fluf.world/) | [Yamauchi No. 10 Family Office](https://y-n10.com/) | [Ethereum Foundation](https://ethereum.org/en/) | [Uniswap](https://uniswap.org/) | [ASSOT](https://asignofthetimes.xyz/) 
 
 ### Team Favourites
 
